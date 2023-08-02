@@ -1,0 +1,984 @@
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => SNEH
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ddd
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Saksham
+    [wa_id] => 918707306356
+    [from] => 918707306356
+    [body] => hello
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Djdv
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Djdv
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => I love you
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Hamada
+    [wa_id] => 212720881093
+    [from] => 212720881093
+    [body] => السلام عليكم
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Hamada
+    [wa_id] => 212720881093
+    [from] => 212720881093
+    [body] => Hello
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Stephen Duamyen Attahiru
+    [wa_id] => 2348065962466
+    [from] => 2348065962466
+    [body] => Hi .I am interested please
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Fff
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Sss
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => RRR
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ccxxx
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ddd
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Fred
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Cccccccc
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Xxx
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Weee
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => A Bb
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Vvvb
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Vvvb
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Fggg
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Cccvv
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ccc
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ccccv
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => SDS
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Fff
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => SNEH
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Ddd
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Saksham
+    [wa_id] => 918707306356
+    [from] => 918707306356
+    [body] => hello
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Write 3 lines about Indian economy
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => I Soft Technologies
+    [wa_id] => 919700106956
+    [from] => 919700106956
+    [body] => http://isofttech.co.in/
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Write 3 lines about Indian economy
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Write 3 lines about Indian economy
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Hello
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Vvv’s d
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Vsbd
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Write 3 line about success
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => Hi
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Md Subhan
+    [wa_id] => 917052101786
+    [from] => 917052101786
+    [body] => write 3 lines about internet marketing
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => I Soft Technologies
+    [wa_id] => 919700106956
+    [from] => 919700106956
+    [body] => http://isofttech.co.in/
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => This
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Pan Card Service
+    [wa_id] => 917042267367
+    [from] => 917042267367
+    [body] => Uti pan card id free
+Mobile number - 7011123611
+
+📱👉Retailer                        coupon rate-95
+
+खोया हुआ पैन कार्ड निकलबाये
+aadhar sleep STATUS CHEK duplicate show ho raha
+
+Please Subscribe My youtube - https://youtu.be/FVhAuoEe5rk
+
+Website login-
+https://utiid.in/index.php
+
+UTI pan ekyc Psa id registration form
+
+https://docs.google.com/forms/d/e/1FAIpQLScrsZriyYYplWdINgzy_zg912gRigIHMEAiPWviTXcDFSGiNQ/viewform?usp=sf_link
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => Hello
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)

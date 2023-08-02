@@ -1,0 +1,378 @@
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E3OEIwNzAyNDM3RDNBQTJERTMA
+                                                            [timestamp] => 1682227484
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => I love u
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMDMzOTA5NTc5NDNERTUxNUQ2AA==
+                                                            [status] => sent
+                                                            [timestamp] => 1682227488
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [expiration_timestamp] => 1682242680
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMDMzOTA5NTc5NDNERTUxNUQ2AA==
+                                                            [status] => delivered
+                                                            [timestamp] => 1682227488
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E2NkI1QzlFQkQ2QTAyNDQyNEYA
+                                                            [timestamp] => 1682227545
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 1
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNTg1MzA4QzdDRDkxRDkwQ0Q1AA==
+                                                            [status] => sent
+                                                            [timestamp] => 1682227548
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [expiration_timestamp] => 1682242680
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNTg1MzA4QzdDRDkxRDkwQ0Q1AA==
+                                                            [status] => delivered
+                                                            [timestamp] => 1682227548
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

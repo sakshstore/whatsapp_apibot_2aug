@@ -1,0 +1,4185 @@
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => A8l4JerFH-yVtYJkZkVpCR6
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FEx9y/SBQ+o
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => ji1TrQr7ITxWdDYobYkKJk8vn4og2MEJET1L4vj8id72hmPTSgSsCNY+JAEzkywSAckH1ImOz3EaP2W5Ubq7rQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 09:36:41 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkNFMzYzNDBDOUIzNzcwRjE3AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkNFMzYzNDBDOUIzNzcwRjE3AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I don't understand what you mean by "Djdv". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I don't understand what you mean by "Djdv". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I don't understand what you mean by \"Djdv\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AG3ybwZI9D23jy8H6QjtUyX
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => DkvfymGyGgt
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => FUd/wvEu6dCs/r3tJpPPC3YXkISZM3UVNenNuT1h8VyWJNiUSVBynHPj4z5brb7qEK4j1i7M585Vcf2jjWmTjg==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 09:37:13 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNUUyRTg1MzVEQjU5Q0UxMDQ4AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNUUyRTg1MzVEQjU5Q0UxMDQ4AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I don't understand what "Djdv" means. Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I don't understand what "Djdv" means. Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I don't understand what \"Djdv\" means. Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AB6VSMzaoY9OuwPK-SSpeyc
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => BNKYYd+JtKT
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => 6iCItcEnPCVo5XP+10tWjgEkfDIsyDFHs8sBLvBEyfXeteMeom6VMjPw7PpH9+9qw1O4l5zsZWNVxC8vhHEn9A==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 09:37:37 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRTJCQTc4ODNEOUQyMTM2RDhDAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRTJCQTc4ODNEOUQyMTM2RDhDAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => As an AI language model, I am not capable of feeling emotions, but I am here to assist you with any language-related tasks. How may I assist you?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => As an AI language model, I am not capable of feeling emotions, but I am here to assist you with any language-related tasks. How may I assist you?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"As an AI language model, I am not capable of feeling emotions, but I am here to assist you with any language-related tasks. How may I assist you?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ABjoalDHxAWAcXkp9jtYzkN
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => GFhxS6CUoQD
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => mPZtK2j8nrm3mYZc/Rtk2bWpt9yhgzZol0jIaluPt5I07fdGb7nx18YC2Hj56cPv5QrHZOujUn9AYXOAJauuNA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 09:50:55 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+212720881093","wa_id":"212720881093"}],"messages":[{"id":"wamid.HBgMMjEyNzIwODgxMDkzFQIAERgSQjlDM0Y1NkUzQTYzMTQxMzFEAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +212720881093
+                            [wa_id] => 212720881093
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMMjEyNzIwODgxMDkzFQIAERgSQjlDM0Y1NkUzQTYzMTQxMzFEAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +212720881093
+                    [type:protected] => text
+                    [text:protected] => وعليكم السلام ورحمة الله وبركاته. كيف يمكنني مساعدتك اليوم؟
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +212720881093
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => وعليكم السلام ورحمة الله وبركاته. كيف يمكنني مساعدتك اليوم؟
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+212720881093","type":"text","text":{"preview_url":false,"body":"\u0648\u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0633\u0644\u0627\u0645 \u0648\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062a\u0647. \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u064a \u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0644\u064a\u0648\u0645\u061f"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AQWBOtiforX09nQa0rITYp5
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FVQQd3/2ahN
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => a4zL0gfRKakqfOVUv6SAosuAqH2sGQ1HGv4D8K1x468+abk5d4exJTIge5kX1gdG9G3ZMYosWnP++L00tKh/Vw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 09:50:58 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+212720881093","wa_id":"212720881093"}],"messages":[{"id":"wamid.HBgMMjEyNzIwODgxMDkzFQIAERgSNjc3NTczNDNCN0RENjdCNzA2AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +212720881093
+                            [wa_id] => 212720881093
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMMjEyNzIwODgxMDkzFQIAERgSNjc3NTczNDNCN0RENjdCNzA2AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +212720881093
+                    [type:protected] => text
+                    [text:protected] => Hello! How can I assist you today?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +212720881093
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => Hello! How can I assist you today?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+212720881093","type":"text","text":{"preview_url":false,"body":"Hello! How can I assist you today?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AmgrxkIx1Dvi50obklPXB2A
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => A3KuLsjFiR9
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => ofIc22ZvCVnLAXODtZLtZ0WL1E2D+GN2xgKF5nht3lhiQNRH7d5WVFWLxwH4NEN0j1KufUKV/PHOTgJMlwCwYg==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:01:32 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 181
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+2348065962466","wa_id":"2348065962466"}],"messages":[{"id":"wamid.HBgNMjM0ODA2NTk2MjQ2NhUCABEYEjM2MUY0QUY3QTQ2Nzc4RUI0NgA="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +2348065962466
+                            [wa_id] => 2348065962466
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgNMjM0ODA2NTk2MjQ2NhUCABEYEjM2MUY0QUY3QTQ2Nzc4RUI0NgA=
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +2348065962466
+                    [type:protected] => text
+                    [text:protected] => Hello! How may I assist you?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +2348065962466
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => Hello! How may I assist you?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+2348065962466","type":"text","text":{"preview_url":false,"body":"Hello! How may I assist you?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AUH_lbdgXnEgHKed8rZ8_w1
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => HaN77iLTNbX
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => kSnskz+Y2O8xGjW3DOUQEhyyO55IUr2WmTTHBpUXCDMNxX7Um6srvjan8fbBAkNUFzmfAjghzCNRDkxO5wxCXA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:02:46 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSOTZBQUNFNkQxNjVGRkVGNzU0AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSOTZBQUNFNkQxNjVGRkVGNzU0AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you are trying to say. Could you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => A1bfcGk25HWwhWBPP2RhHUq
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FUkYG2ClewQ
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => H/lAWrgb0wcpSM4FMOgPCc+JveVvvDAglHv+M5Y6jvg8Eu/9ZBVG7siX+j0FB1DoOc9ocj3uYtLcTWXQNnvnMA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:02:57 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTQ4NUIyRTg5NDlEOUE1MjIyAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTQ4NUIyRTg5NDlEOUE1MjIyAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I don't understand what you mean by "Sss". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I don't understand what you mean by "Sss". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I don't understand what you mean by \"Sss\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ALf0vn6ka8kM5_0Uv31JC26
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => Ah3elVsQFWJ
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => XL+uJRrtN1Ipv10Xs9TAr3/0dcNTKcr/MD2oXE8mHXRRUBESX586ibrrP7a6UL/ypuQuk16S6blnaCQYzxD4cQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:01 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNzhCNzQxQjZGOUFCMTYxODlBAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNzhCNzQxQjZGOUFCMTYxODlBAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => As an AI language model, I do not have any context about what "RRR" refers to. Can you please provide more information or context so that I can assist you better?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => As an AI language model, I do not have any context about what "RRR" refers to. Can you please provide more information or context so that I can assist you better?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"As an AI language model, I do not have any context about what \"RRR\" refers to. Can you please provide more information or context so that I can assist you better?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => Avz11q7f9X8sEgnp8sjDywC
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => AckD54pMmB3
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => hgHimjjdRY8RrUrcSQnRxqtoknahng94UtIMhB2K4SxTBTBNC7XPxHFL/KXX/Jjjfhad9bGFhMCYgzwy0lga8Q==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:05 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTFDNjMwNEU0QkJFQ0E3NTVCAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTFDNjMwNEU0QkJFQ0E3NTVCAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I do not understand what you mean by "Ccxxx". Can you please provide more context or information for me to assist you better?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I do not understand what you mean by "Ccxxx". Can you please provide more context or information for me to assist you better?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I do not understand what you mean by \"Ccxxx\". Can you please provide more context or information for me to assist you better?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => A3NpUTk8__a3kCB1xu_vFxO
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => A8vVynmhJOq
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => TNCEaeoxNAhBaDqZ920CAloCE/c95y0NB4zVGkn8KrMz7BRMGaWIvEUvXKEg5qwEJaW3aawvnJ852rKkBJ0iwQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:08 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkMwNjFCOEZBNEQzRkM0RTk2AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkMwNjFCOEZBNEQzRkM0RTk2AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I do not understand what you mean by "Ddd". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I do not understand what you mean by "Ddd". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I do not understand what you mean by \"Ddd\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AD-eGL5HeHXaAhyixSeZLn7
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FD+toCcKPv+
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => Et+PUwz/+Fm4ZOrWgqtWdoesCXjsH9NGi1R/+HtoiZV+1ONFBfdgoqrSmU/Jw2A9cnzeYPPfDKCsnDUxcwVCCA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:12 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTI4NTQ2Njc1REQ3NkI4MkEyAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMTI4NTQ2Njc1REQ3NkI4MkEyAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I am an AI language model and I do not have any context about who Fred is. Can you please provide me with more information or a specific question?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I am an AI language model and I do not have any context about who Fred is. Can you please provide me with more information or a specific question?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I am an AI language model and I do not have any context about who Fred is. Can you please provide me with more information or a specific question?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AjPAxkm-Wqq9aujAPpFFzpL
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => AYrAF2JQXMB
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => I4XJMMqFio/2lQparDqR7YVtqoNWaPMiKltg9h6yYEIA1q8NYyOn9qbcclnh4zUWMGJ8ySTHpaWlJY1f+QVRkQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:16 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMzRGQjQ1NUQ3RTkzRjdEOEMwAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMzRGQjQ1NUQ3RTkzRjdEOEMwAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more information or context?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more information or context?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you are trying to say. Could you please provide more information or context?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AgfDEwHYCMvgrp3ItkUy7A4
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => H5yWAWrsrxT
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => p8FJW8mYyznvjKewvn3IzORpNDzB+eMR2ErhaoidPPMHwlXQOJM4p3LW9MuTlPlfhQ6noBKd/KCqT10TARSDOA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:29 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQkI4NUM5Mjk1ODVDMzg2MDBEAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQkI4NUM5Mjk1ODVDMzg2MDBEAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I cannot respond to inappropriate requests or messages. Please ask a valid question or provide proper context.
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I cannot respond to inappropriate requests or messages. Please ask a valid question or provide proper context.
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I cannot respond to inappropriate requests or messages. Please ask a valid question or provide proper context."}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ADnjlAscDBL0sDnZ9VHTzly
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => Ee9yPM4iV+K
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => qT5z7Lp7VEEIESwRlNnahHYk2L0Z4eGJotFCtgEA04pYwQ+NY5t8+Oca2YtdJKBHu5nnRCZuOe3UP7aLpC7vrQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:33 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkIxRUEwNDQ0MTI3RDQ1MERFAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSRkIxRUEwNDQ0MTI3RDQ1MERFAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => Sorry, I am not sure what you mean by "Weee". Can you please provide more context or information so I can assist you better?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => Sorry, I am not sure what you mean by "Weee". Can you please provide more context or information so I can assist you better?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"Sorry, I am not sure what you mean by \"Weee\". Can you please provide more context or information so I can assist you better?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AJG_n7-OrEURJXasBaZqJXQ
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => CiMIJ0Ia3OO
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => kSD3g8x7f5tl0CMhLKGtLrOMcTiAlw30lhusbUP79yMZjN7s+/FZq3fM9d9UL8lBzqmUU8LnTAPEbTQO8tIOOQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:35 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQjBFOTRGM0U0NUMzMTlFRTdCAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQjBFOTRGM0U0NUMzMTlFRTdCAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => B flat
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => B flat
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"B flat"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ARbetVl-tOkfUBdHoqcY4Tx
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => CB58PTcBwiD
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => vd0XVUvuCPU3ZJ5AJxTXRMV9ouZ3isCeE3tvhEfNp8RdaAOnRaBMC5tEHzN9UYgChboyP1amFKhg/a4Y4OWCBw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:38 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMDEzN0I4NTA3NUM3NzhBOUM3AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMDEzN0I4NTA3NUM3NzhBOUM3AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I don't understand what you mean by "Vvvb". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I don't understand what you mean by "Vvvb". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I don't understand what you mean by \"Vvvb\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AaM2dGKCG3fnR4WNi-VADjG
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => E/wpMTugN6o
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => GLjuVDTXhbO1ejyCkf3qJyK6ZZhUC7xqF0kIZYAYoMT/Aku4FG3L/aU8MQrjrYsg8CG7ZKDShtslUvGe6RFHZA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:46 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQkU1NDVBQ0RFMUNFNzAzNjc5AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSQkU1NDVBQ0RFMUNFNzAzNjc5AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you mean by "Vvvb." Could you please provide more context or information so I can better assist you?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you mean by "Vvvb." Could you please provide more context or information so I can better assist you?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you mean by \"Vvvb.\" Could you please provide more context or information so I can better assist you?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AZSM6fQUI_RT07Odi5t-bqu
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => EBRCwqf1fCP
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => t6Swe7RJ9NPzqfTzfViA2KpzO/UMmqHmZjzy1/cmbs32oS3hB287w+/FcEfGYrgs++u5kUwjdchAoXd5WQy0RQ==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:51 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNEM2NUQ4M0VBQ0M5NDk3ODc0AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNEM2NUQ4M0VBQ0M5NDk3ODc0AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I don't understand what you mean by "Fggg." Can you please provide more context or information so I can assist you better?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I don't understand what you mean by "Fggg." Can you please provide more context or information so I can assist you better?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I don't understand what you mean by \"Fggg.\" Can you please provide more context or information so I can assist you better?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => A0rmKeG9Evjg-DSWBuyIDFQ
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => CReUmUNLI4G
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => by3pJVvO3pMnsZerxmS5JxtfZaSeo3RYXCGLVLzpEoj/BRvkjcpdbCBH2YUIT0/U6Qe8UbxoNJKwUkzZ1KlDAw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:55 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNDgyMDNFQTk1MUZGNTgzNzExAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNDgyMDNFQTk1MUZGNTgzNzExAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => As an AI language model, I'm not sure what you mean by "Cccvv". Can you please provide more context or information so I can better understand your request?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => As an AI language model, I'm not sure what you mean by "Cccvv". Can you please provide more context or information so I can better understand your request?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"As an AI language model, I'm not sure what you mean by \"Cccvv\". Can you please provide more context or information so I can better understand your request?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => A2YHrQKeaEziqlt-gO3rP4U
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FPK2DbiK4K8
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => 39v8qRkmykkNLyX3vYXNFoOac8IWVxXJr6ta9Ntkq4s5u5qrQCYZI1+inehiiLfWSYVdrPA7YU1cl/pRoE5yag==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:03:59 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMEUwMjYyNjk1QjU3QkUwMjY4AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSMEUwMjYyNjk1QjU3QkUwMjY4AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you mean by "Ccc". Can you provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you mean by "Ccc". Can you provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you mean by \"Ccc\". Can you provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AHGQIweblm3B6pE8FRrc98V
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => CBxxhPTfZjg
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => hf2zVD+BEuTTr/Ikt8CTaSEwrgVo2FE6DO4XRY+daafTileG55mrIWLm0oNsrqWvGeOg/CezkmW9ZuAGGOjVMw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:04:03 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNjQ5NDZDQTEzQTcyRDY2NUVFAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNjQ5NDZDQTEzQTcyRDY2NUVFAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you mean by "Ccccv". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you mean by "Ccccv". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you mean by \"Ccccv\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AG-mafn8HZyp7mfPka6MzQ5
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => A/qHaX9b5Fu
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => twgX6jMYf0LWI4y04hcXRdXRinrTVnQYot7qYdlPUIifHgzbQun+09ACMhUCQw8v5LYsfwMlnx1seerZ6lAuXw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:04:12 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSODY4NEY0MzQ0MDkyNzVBMkNDAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSODY4NEY0MzQ0MDkyNzVBMkNDAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => SDS stands for Safety Data Sheet. It is a document that contains information about the properties, hazards, and safe handling of a particular chemical substance. SDSs are required by law in many countries and are intended to provide workers, emergency responders, and others with the information they need to safely handle, transport, and dispose of hazardous materials. SDSs typically include information on the chemical composition of the substance, physical and chemical properties, health effects, first-aid measures, fire and explosion hazards, handling and storage procedures, and more.
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => SDS stands for Safety Data Sheet. It is a document that contains information about the properties, hazards, and safe handling of a particular chemical substance. SDSs are required by law in many countries and are intended to provide workers, emergency responders, and others with the information they need to safely handle, transport, and dispose of hazardous materials. SDSs typically include information on the chemical composition of the substance, physical and chemical properties, health effects, first-aid measures, fire and explosion hazards, handling and storage procedures, and more.
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"SDS stands for Safety Data Sheet. It is a document that contains information about the properties, hazards, and safe handling of a particular chemical substance. SDSs are required by law in many countries and are intended to provide workers, emergency responders, and others with the information they need to safely handle, transport, and dispose of hazardous materials. SDSs typically include information on the chemical composition of the substance, physical and chemical properties, health effects, first-aid measures, fire and explosion hazards, handling and storage procedures, and more."}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ASTUtawNr_iglEV6uQty6e3
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => FQboQeqRL8S
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => wPwG/HRxtIVfFR8fr9wloR6wPrrRyXhEOAa7xooIPNpRrqQr+e0r9m0ZerL0eOtSSfSK9Vd7FDQo+3c8zggBfA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:04:16 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNkU3RDFDNEIyQkNBMDQwQTBEAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNkU3RDFDNEIyQkNBMDQwQTBEAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I do not understand what you mean by "Fff". Can you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I do not understand what you mean by "Fff". Can you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I do not understand what you mean by \"Fff\". Can you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => ASOGBcUd_xGF4Wu2s9ShHjn
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => C6lDxpAEhrz
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => z9tCC6tQiHEJJNdD5o9yHtfFQaXQTrvrUbmBl1K5O5pFO7spWcXrFZRjwnCJD9IYal61HtKpABeUQW5LF3iMXA==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:04:25 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNTRFMDJGMTQ0REVBNDI1QjUxAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNTRFMDJGMTQ0REVBNDI1QjUxAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I do not understand what you are referring to with "SNEH". Can you provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I do not understand what you are referring to with "SNEH". Can you provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I do not understand what you are referring to with \"SNEH\". Can you provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => AJ4fT3IaNUZN0eOBLf3JF4x
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => AlZH2fBSq5I
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => 4e2w0D6MplV2e9FXvHdbJjkvH9mFxwgpQvHKjl+MATZs5p0K97hlOyhCF/h6on4gyHvUNPANMAS0bzri9z+JHw==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:04:29 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918840574997","wa_id":"918840574997"}],"messages":[{"id":"wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSOTc2RjBFQTY2QTE4OUExNEVGAA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918840574997
+                            [wa_id] => 918840574997
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSOTc2RjBFQTY2QTE4OUExNEVGAA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918840574997
+                    [type:protected] => text
+                    [text:protected] => I'm sorry, I'm not sure what you mean by "Ddd." Could you please provide more context or information?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918840574997
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => I'm sorry, I'm not sure what you mean by "Ddd." Could you please provide more context or information?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918840574997","type":"text","text":{"preview_url":false,"body":"I'm sorry, I'm not sure what you mean by \"Ddd.\" Could you please provide more context or information?"}}
+            [timeout:protected] => 60
+        )
+
+)
+Netflie\WhatsAppCloudApi\Response Object
+(
+    [http_status_code:protected] => 200
+    [headers:protected] => Array
+        (
+            [Content-Type] => Array
+                (
+                    [0] => text/javascript; charset=UTF-8
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Origin
+                )
+
+            [x-business-use-case-usage] => Array
+                (
+                    [0] => {"103738959279996":[{"type":"whatsapp","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+                )
+
+            [x-fb-rlafr] => Array
+                (
+                    [0] => 0
+                )
+
+            [Access-Control-Allow-Origin] => Array
+                (
+                    [0] => *
+                )
+
+            [facebook-api-version] => Array
+                (
+                    [0] => v15.0
+                )
+
+            [Strict-Transport-Security] => Array
+                (
+                    [0] => max-age=15552000; preload
+                )
+
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => private, no-cache, no-store, must-revalidate
+                )
+
+            [Expires] => Array
+                (
+                    [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                )
+
+            [x-fb-request-id] => Array
+                (
+                    [0] => Ak5xQ3Xttgn0KU0DU0Dwya9
+                )
+
+            [x-fb-trace-id] => Array
+                (
+                    [0] => D4R3zUMXESV
+                )
+
+            [x-fb-rev] => Array
+                (
+                    [0] => 1007363741
+                )
+
+            [X-FB-Debug] => Array
+                (
+                    [0] => ysUH/KoCQv/Z8z2EGEP90jkw3f179SXwjyvR7EEArosDEmTTodoqYlciHcwb8PGJ9zjcNOrhrMilyjaVUTEXVg==
+                )
+
+            [Date] => Array
+                (
+                    [0] => Sat, 22 Apr 2023 10:24:03 GMT
+                )
+
+            [Alt-Svc] => Array
+                (
+                    [0] => h3=":443"; ma=86400
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Content-Length] => Array
+                (
+                    [0] => 179
+                )
+
+        )
+
+    [body:protected] => {"messaging_product":"whatsapp","contacts":[{"input":"+918707306356","wa_id":"918707306356"}],"messages":[{"id":"wamid.HBgMOTE4NzA3MzA2MzU2FQIAERgSN0FEMjkyQTA3QTQxMEM2NTc4AA=="}]}
+    [decoded_body:protected] => Array
+        (
+            [messaging_product] => whatsapp
+            [contacts] => Array
+                (
+                    [0] => Array
+                        (
+                            [input] => +918707306356
+                            [wa_id] => 918707306356
+                        )
+
+                )
+
+            [messages] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => wamid.HBgMOTE4NzA3MzA2MzU2FQIAERgSN0FEMjkyQTA3QTQxMEM2NTc4AA==
+                        )
+
+                )
+
+        )
+
+    [request:protected] => Netflie\WhatsAppCloudApi\Request\RequestTextMessage Object
+        (
+            [message:protected] => Netflie\WhatsAppCloudApi\Message\TextMessage Object
+                (
+                    [messaging_product:protected] => whatsapp
+                    [recipient_type:protected] => individual
+                    [to:protected] => +918707306356
+                    [type:protected] => text
+                    [text:protected] => Hi there! How can I assist you today?
+                    [preview_url:protected] => 
+                )
+
+            [access_token:protected] => EAAHIFF1lhZBIBAHsmnh8UWMKXsza6VHydoA1Lp78ZCjO1M2nwJuT4ZBuMXotQdXlwpZAsu7I9bgRoiqZBojBBFp7A984o8SKsTEP8qrLHOguRX8ShZCcQ9wATT7kCsznkWxZAkmxnDEZApZA7ZB26qylZBkjY8esb4p1XXgj7opDig9kqkh2CEy1Squ
+            [from_phone_number_id:protected] => 102243829431665
+            [body:protected] => Array
+                (
+                    [messaging_product] => whatsapp
+                    [recipient_type] => individual
+                    [to] => +918707306356
+                    [type] => text
+                    [text] => Array
+                        (
+                            [preview_url] => 
+                            [body] => Hi there! How can I assist you today?
+                        )
+
+                )
+
+            [encoded_body:protected] => {"messaging_product":"whatsapp","recipient_type":"individual","to":"+918707306356","type":"text","text":{"preview_url":false,"body":"Hi there! How can I assist you today?"}}
+            [timeout:protected] => 60
+        )
+
+)

@@ -1,0 +1,12 @@
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{"id":"chatcmpl-78MUTUCB4t3c0OsRgaqygq8TsVLRR","object":"chat.completion","created":1682227433,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":9,"completion_tokens":9,"total_tokens":18},"choices":[{"message":{"role":"assistant","content":"Hello! How can I assist you today?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-78MVJCuKRCe0cOA3jK3BsJcDSmqS8","object":"chat.completion","created":1682227485,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":11,"completion_tokens":31,"total_tokens":42},"choices":[{"message":{"role":"assistant","content":"As an AI language model, I don't have emotions, but I'm here to assist you with anything you need. How can I help you today?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-78MWH7G5qmpBns9yLScLKgIRdaVaV","object":"chat.completion","created":1682227545,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":9,"completion_tokens":22,"total_tokens":31},"choices":[{"message":{"role":"assistant","content":"I'm sorry, I'm not sure what your question is. Can you please provide more information or context?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-78MY9sRpyllgeBTkApgR0hcn6XVRF","object":"chat.completion","created":1682227661,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":16,"completion_tokens":19,"total_tokens":35},"choices":[{"message":{"role":"assistant","content":"Sri Krishna is a revered Hindu deity known for his wisdom, compassion, and divine teachings."},"finish_reason":"stop","index":0}]}

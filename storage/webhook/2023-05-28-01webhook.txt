@@ -1,0 +1,1280 @@
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSRTlDMUQxQTc1NjUxRTQ0QjlBAA==
+                                                            [timestamp] => 1685279167
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => ssss
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSMjhFQzg4QzI2RjYyQThBQzgwAA==
+                                                            [timestamp] => 1685279158
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => s
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgSOUI3NTIwRUE1RDhBMTYzNDA5AA==
+                                                            [timestamp] => 1685279326
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 2
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E1MEU4MENCODM0OUYwNDEwMjEA
+                                                            [timestamp] => 1685273366
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Db Dodd
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0ExRjI3NDM5MzAxMzI2QTNDNTgA
+                                                            [timestamp] => 1685273383
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Dd
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0FERjFBOTczRjVFQkE1NjYwN0EA
+                                                            [timestamp] => 1685273373
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Ddd
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E1ODhDMUIwMEIxM0UxMzJENjcA
+                                                            [timestamp] => 1685274164
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Fff
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0EwRDdENzI1OUI5QTdFNzBDMjkA
+                                                            [timestamp] => 1685274109
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Ccc
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0EzQ0E5MUVGOUFFQjdBNUM4NTIA
+                                                            [timestamp] => 1685274352
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Fffnbbs
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E0NUI0MEQzMTFFQTQwNTIxNzUA
+                                                            [timestamp] => 1685273378
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Ccc
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0EyODYyNTA2ODZBN0I0MjlBOUYA
+                                                            [timestamp] => 1685274369
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 1
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E0NDFERjM5OTI5QUM4OTFEOTcA
+                                                            [timestamp] => 1685274187
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Ccc
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0FCMzdENjgwNEIxNjdENUM1OTAA
+                                                            [timestamp] => 1685274521
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Fff
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0EyOUQ4NThEOTZCREVGMjE3OTcA
+                                                            [timestamp] => 1685274245
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Sbsbdbbd
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E4OEZEMTE1ODBBNThENDc3QTkA
+                                                            [timestamp] => 1685274537
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => 1
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

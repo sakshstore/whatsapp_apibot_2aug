@@ -1,0 +1,3024 @@
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Djdv". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:36:40
+            [created_at] => 2023-04-22 09:36:40
+            [id] => 198
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Djdv". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:36:40
+            [created_at] => 2023-04-22 09:36:40
+            [id] => 198
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what "Djdv" means. Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:37:13
+            [created_at] => 2023-04-22 09:37:13
+            [id] => 200
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what "Djdv" means. Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:37:13
+            [created_at] => 2023-04-22 09:37:13
+            [id] => 200
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I am not capable of feeling emotions, but I am here to assist you with any language-related tasks. How may I assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:37:37
+            [created_at] => 2023-04-22 09:37:37
+            [id] => 202
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I am not capable of feeling emotions, but I am here to assist you with any language-related tasks. How may I assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:37:37
+            [created_at] => 2023-04-22 09:37:37
+            [id] => 202
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 31
+            [from_number] => 212720881093
+            [message] => وعليكم السلام ورحمة الله وبركاته. كيف يمكنني مساعدتك اليوم؟
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:50:55
+            [created_at] => 2023-04-22 09:50:55
+            [id] => 205
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 31
+            [from_number] => 212720881093
+            [message] => وعليكم السلام ورحمة الله وبركاته. كيف يمكنني مساعدتك اليوم؟
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:50:55
+            [created_at] => 2023-04-22 09:50:55
+            [id] => 205
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 31
+            [from_number] => 212720881093
+            [message] => Hello! How can I assist you today?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:50:58
+            [created_at] => 2023-04-22 09:50:58
+            [id] => 207
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 31
+            [from_number] => 212720881093
+            [message] => Hello! How can I assist you today?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 09:50:58
+            [created_at] => 2023-04-22 09:50:58
+            [id] => 207
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 32
+            [from_number] => 2348065962466
+            [message] => Hello! How may I assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:01:31
+            [created_at] => 2023-04-22 10:01:31
+            [id] => 209
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 32
+            [from_number] => 2348065962466
+            [message] => Hello! How may I assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:01:31
+            [created_at] => 2023-04-22 10:01:31
+            [id] => 209
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:02:46
+            [created_at] => 2023-04-22 10:02:46
+            [id] => 212
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:02:46
+            [created_at] => 2023-04-22 10:02:46
+            [id] => 212
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Sss". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:02:56
+            [created_at] => 2023-04-22 10:02:56
+            [id] => 214
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Sss". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:02:56
+            [created_at] => 2023-04-22 10:02:56
+            [id] => 214
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I do not have any context about what "RRR" refers to. Can you please provide more information or context so that I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:00
+            [created_at] => 2023-04-22 10:03:00
+            [id] => 216
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I do not have any context about what "RRR" refers to. Can you please provide more information or context so that I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:00
+            [created_at] => 2023-04-22 10:03:00
+            [id] => 216
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Ccxxx". Can you please provide more context or information for me to assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:04
+            [created_at] => 2023-04-22 10:03:04
+            [id] => 218
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Ccxxx". Can you please provide more context or information for me to assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:04
+            [created_at] => 2023-04-22 10:03:04
+            [id] => 218
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Ddd". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:08
+            [created_at] => 2023-04-22 10:03:08
+            [id] => 220
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Ddd". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:08
+            [created_at] => 2023-04-22 10:03:08
+            [id] => 220
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I am an AI language model and I do not have any context about who Fred is. Can you please provide me with more information or a specific question?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:12
+            [created_at] => 2023-04-22 10:03:12
+            [id] => 222
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I am an AI language model and I do not have any context about who Fred is. Can you please provide me with more information or a specific question?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:12
+            [created_at] => 2023-04-22 10:03:12
+            [id] => 222
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more information or context?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:15
+            [created_at] => 2023-04-22 10:03:15
+            [id] => 224
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you are trying to say. Could you please provide more information or context?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:15
+            [created_at] => 2023-04-22 10:03:15
+            [id] => 224
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I cannot respond to inappropriate requests or messages. Please ask a valid question or provide proper context.
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:28
+            [created_at] => 2023-04-22 10:03:28
+            [id] => 226
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I cannot respond to inappropriate requests or messages. Please ask a valid question or provide proper context.
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:28
+            [created_at] => 2023-04-22 10:03:28
+            [id] => 226
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => Sorry, I am not sure what you mean by "Weee". Can you please provide more context or information so I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:32
+            [created_at] => 2023-04-22 10:03:32
+            [id] => 228
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => Sorry, I am not sure what you mean by "Weee". Can you please provide more context or information so I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:32
+            [created_at] => 2023-04-22 10:03:32
+            [id] => 228
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => B flat
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:34
+            [created_at] => 2023-04-22 10:03:34
+            [id] => 230
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => B flat
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:34
+            [created_at] => 2023-04-22 10:03:34
+            [id] => 230
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Vvvb". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:38
+            [created_at] => 2023-04-22 10:03:38
+            [id] => 232
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Vvvb". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:38
+            [created_at] => 2023-04-22 10:03:38
+            [id] => 232
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Vvvb." Could you please provide more context or information so I can better assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:42
+            [created_at] => 2023-04-22 10:03:42
+            [id] => 234
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Vvvb." Could you please provide more context or information so I can better assist you?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:42
+            [created_at] => 2023-04-22 10:03:42
+            [id] => 234
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Fggg." Can you please provide more context or information so I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:50
+            [created_at] => 2023-04-22 10:03:50
+            [id] => 236
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I don't understand what you mean by "Fggg." Can you please provide more context or information so I can assist you better?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:50
+            [created_at] => 2023-04-22 10:03:50
+            [id] => 236
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I'm not sure what you mean by "Cccvv". Can you please provide more context or information so I can better understand your request?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:55
+            [created_at] => 2023-04-22 10:03:55
+            [id] => 238
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => As an AI language model, I'm not sure what you mean by "Cccvv". Can you please provide more context or information so I can better understand your request?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:55
+            [created_at] => 2023-04-22 10:03:55
+            [id] => 238
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ccc". Can you provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:58
+            [created_at] => 2023-04-22 10:03:58
+            [id] => 240
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ccc". Can you provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:03:58
+            [created_at] => 2023-04-22 10:03:58
+            [id] => 240
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ccccv". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:02
+            [created_at] => 2023-04-22 10:04:02
+            [id] => 242
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ccccv". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:02
+            [created_at] => 2023-04-22 10:04:02
+            [id] => 242
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => SDS stands for Safety Data Sheet. It is a document that contains information about the properties, hazards, and safe handling of a particular chemical substance. SDSs are required by law in many countries and are intended to provide workers, emergency responders, and others with the information they need to safely handle, transport, and dispose of hazardous materials. SDSs typically include information on the chemical composition of the substance, physical and chemical properties, health effects, first-aid measures, fire and explosion hazards, handling and storage procedures, and more.
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:11
+            [created_at] => 2023-04-22 10:04:11
+            [id] => 244
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => SDS stands for Safety Data Sheet. It is a document that contains information about the properties, hazards, and safe handling of a particular chemical substance. SDSs are required by law in many countries and are intended to provide workers, emergency responders, and others with the information they need to safely handle, transport, and dispose of hazardous materials. SDSs typically include information on the chemical composition of the substance, physical and chemical properties, health effects, first-aid measures, fire and explosion hazards, handling and storage procedures, and more.
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:11
+            [created_at] => 2023-04-22 10:04:11
+            [id] => 244
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Fff". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:15
+            [created_at] => 2023-04-22 10:04:15
+            [id] => 246
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you mean by "Fff". Can you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:15
+            [created_at] => 2023-04-22 10:04:15
+            [id] => 246
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you are referring to with "SNEH". Can you provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:24
+            [created_at] => 2023-04-22 10:04:24
+            [id] => 248
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I do not understand what you are referring to with "SNEH". Can you provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:24
+            [created_at] => 2023-04-22 10:04:24
+            [id] => 248
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ddd." Could you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:29
+            [created_at] => 2023-04-22 10:04:29
+            [id] => 250
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 29
+            [from_number] => 918840574997
+            [message] => I'm sorry, I'm not sure what you mean by "Ddd." Could you please provide more context or information?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:04:29
+            [created_at] => 2023-04-22 10:04:29
+            [id] => 250
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\Chat Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chats
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [chat_requests_id] => 14
+            [from_number] => 918707306356
+            [message] => Hi there! How can I assist you today?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:24:03
+            [created_at] => 2023-04-22 10:24:03
+            [id] => 256
+        )
+
+    [original:protected] => Array
+        (
+            [chat_requests_id] => 14
+            [from_number] => 918707306356
+            [message] => Hi there! How can I assist you today?
+            [user_id] => 200
+            [updated_at] => 2023-04-22 10:24:03
+            [created_at] => 2023-04-22 10:24:03
+            [id] => 256
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => message
+            [1] => attachement
+            [2] => user_id
+            [3] => chat_requests_id
+            [4] => from_number
+            [5] => status
+            [6] => category
+            [7] => from
+            [8] => url
+            [9] => referral
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

@@ -1,0 +1,309 @@
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Susheel verma
+                                                                )
+
+                                                            [wa_id] => 918840574997
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918840574997
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAEhgUM0E0QUMzRURCRjkwOTFENDMyNUIA
+                                                            [timestamp] => 1682227661
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Write a line about Sri krsna
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNERENUU2MTZBNDE0NThCOTQ0AA==
+                                                            [status] => sent
+                                                            [timestamp] => 1682227664
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [expiration_timestamp] => 1682242680
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [statuses] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [id] => wamid.HBgMOTE4ODQwNTc0OTk3FQIAERgSNERENUU2MTZBNDE0NThCOTQ0AA==
+                                                            [status] => delivered
+                                                            [timestamp] => 1682227665
+                                                            [recipient_id] => 918840574997
+                                                            [conversation] => Array
+                                                                (
+                                                                    [id] => 5ad2ed6dab52a70f6e1324ee8dc3ea87
+                                                                    [origin] => Array
+                                                                        (
+                                                                            [type] => user_initiated
+                                                                        )
+
+                                                                )
+
+                                                            [pricing] => Array
+                                                                (
+                                                                    [billable] => 1
+                                                                    [pricing_model] => CBP
+                                                                    [category] => user_initiated
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103738959279996
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 919559190379
+                                                    [phone_number_id] => 102243829431665
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Dhruvi Rosix
+                                                                )
+
+                                                            [wa_id] => 918128519747
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 918128519747
+                                                            [id] => wamid.HBgMOTE4MTI4NTE5NzQ3FQIAEhgQQkFFNTYwNDZEQjVCQkQ3MQA=
+                                                            [timestamp] => 1682065488
+                                                            [type] => document
+                                                            [document] => Array
+                                                                (
+                                                                    [caption] => Hello,
+
+Susheel
+
+*Upgrade your sales system in financial year 2023-24 with free demo :*
+
+✨ SALESTACK CRM ✨ 
+
+👉🏻 One of the best Automation software ever, where you can manage your sales to after sale support.
+
+👉🏻 Integration for auto live lead capturing and auto sending messages.
+
+1. Whatsapp                                       
+2. Indiamart
+3. Justdial                                            
+4. Trade India
+5. Facebook                                         
+6. Website
+7. Google Ads                                     
+8. Email
+9. SMS                                                
+10.Mobile App
+
+👉🏻 Salestack CRM Modules :
+
+1. Dashboard                                       
+2. Marketing
+3. Sales
+4. Inventory
+5. Support                                           
+6. Project
+7. Tools                                               
+8. Documents
+9. Settings
+
+👉🏻 Salestack CRM 360° Features :
+
+1. Lead / Contact Management                        
+2. Multiple Users Management
+3. Quotes                                           
+4. Sales Order / Purchase Order
+5. Invoice                                           
+6. Third Party Integration
+7. Sales Reports & Analytics             
+8. Sales Forecasting 
+9. Email Sequence           
+10. Workflow / Pipeline / Marketing Automation
+11. Module Management
+
+We are providing overall IT solution for your business.
+
+📲 9879707859 / 8488897122
+🌐 salestack.in
+                                                                    [filename] => Salestack CRM Brochure.pdf
+                                                                    [mime_type] => application/pdf
+                                                                    [sha256] => 8IJXt7zY8X++admxHzj7ux+WkUJ08faJvDvOEAa7Plo=
+                                                                    [id] => 1332537867323817
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

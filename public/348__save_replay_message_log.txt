@@ -1,0 +1,4588 @@
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [name] => I Soft Technologies
+            [from_number] => 919700106956
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 09:32:08
+            [created_at] => 2023-04-22 09:32:08
+            [id] => 30
+        )
+
+    [original:protected] => Array
+        (
+            [name] => I Soft Technologies
+            [from_number] => 919700106956
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 09:32:08
+            [created_at] => 2023-04-22 09:32:08
+            [id] => 30
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 14
+            [name] => 
+            [from_number] => 918707306356
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-10 08:38:25
+            [updated_at] => 2023-04-10 08:38:25
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 14
+            [name] => 
+            [from_number] => 918707306356
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-10 08:38:25
+            [updated_at] => 2023-04-10 08:38:25
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [name] => Hamada
+            [from_number] => 212720881093
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 09:50:51
+            [created_at] => 2023-04-22 09:50:51
+            [id] => 31
+        )
+
+    [original:protected] => Array
+        (
+            [name] => Hamada
+            [from_number] => 212720881093
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 09:50:51
+            [created_at] => 2023-04-22 09:50:51
+            [id] => 31
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 31
+            [name] => Hamada
+            [from_number] => 212720881093
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:50:51
+            [updated_at] => 2023-04-22 09:50:51
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 31
+            [name] => Hamada
+            [from_number] => 212720881093
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:50:51
+            [updated_at] => 2023-04-22 09:50:51
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [name] => Stephen Duamyen Attahiru
+            [from_number] => 2348065962466
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 10:01:29
+            [created_at] => 2023-04-22 10:01:29
+            [id] => 32
+        )
+
+    [original:protected] => Array
+        (
+            [name] => Stephen Duamyen Attahiru
+            [from_number] => 2348065962466
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 10:01:29
+            [created_at] => 2023-04-22 10:01:29
+            [id] => 32
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 1
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [name] => Pan Card Service
+            [from_number] => 917042267367
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 10:01:44
+            [created_at] => 2023-04-22 10:01:44
+            [id] => 33
+        )
+
+    [original:protected] => Array
+        (
+            [name] => Pan Card Service
+            [from_number] => 917042267367
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [app_id] => 1
+            [status] => New
+            [category] => Customer
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [updated_at] => 2023-04-22 10:01:44
+            [created_at] => 2023-04-22 10:01:44
+            [id] => 33
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 14
+            [name] => 
+            [from_number] => 918707306356
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-10 08:38:25
+            [updated_at] => 2023-04-10 08:38:25
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 14
+            [name] => 
+            [from_number] => 918707306356
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-10 08:38:25
+            [updated_at] => 2023-04-10 08:38:25
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 30
+            [name] => I Soft Technologies
+            [from_number] => 919700106956
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:32:08
+            [updated_at] => 2023-04-22 09:32:08
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 30
+            [name] => I Soft Technologies
+            [from_number] => 919700106956
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:32:08
+            [updated_at] => 2023-04-22 09:32:08
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 33
+            [name] => Pan Card Service
+            [from_number] => 917042267367
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 10:01:44
+            [updated_at] => 2023-04-22 10:01:44
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 33
+            [name] => Pan Card Service
+            [from_number] => 917042267367
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 10:01:44
+            [updated_at] => 2023-04-22 10:01:44
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)
+App\Models\ChatRequest Object
+(
+    [connection:protected] => mysql
+    [table:protected] => chat_requests
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [preventsLazyLoading] => 
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [escapeWhenCastingToString:protected] => 
+    [attributes:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 29
+            [name] => Susheel verma
+            [from_number] => 918840574997
+            [display_phone_number] => 919559190379
+            [phone_number_id] => 102243829431665
+            [status] => New
+            [category] => Customer
+            [app_id] => 1
+            [from] => Whatsapp
+            [url] => localhost
+            [referral] => Whatsapp Messages
+            [created_at] => 2023-04-22 09:27:46
+            [updated_at] => 2023-04-22 09:27:46
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [attributeCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+            [0] => from_number
+            [1] => status
+            [2] => category
+            [3] => from
+            [4] => url
+            [5] => referral
+            [6] => name
+            [7] => display_phone_number
+            [8] => phone_number_id
+            [9] => app_id
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

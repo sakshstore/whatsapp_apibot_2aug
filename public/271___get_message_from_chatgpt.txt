@@ -1,0 +1,158 @@
+{"id":"chatcmpl-785U4S0Drqy0u1aBGoydUP4PynbUU","object":"chat.completion","created":1682162060,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":12,"completion_tokens":27,"total_tokens":39},"choices":[{"message":{"role":"assistant","content":"I'm sorry, I do not understand what you mean by \"Vvv's d\". Can you please provide more context or information?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-785USPQxv8ZU0iYJ4yDS2rbnX8JB3","object":"chat.completion","created":1682162084,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":10,"completion_tokens":33,"total_tokens":43},"choices":[{"message":{"role":"assistant","content":"As an AI language model, I am not familiar with the acronym \"Vsbd\". Can you please provide more context or information so I can better understand your inquiry?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-785UaQiid9yHk9fIb7EBsvDelKLQi","object":"chat.completion","created":1682162092,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":14,"completion_tokens":51,"total_tokens":65},"choices":[{"message":{"role":"assistant","content":"1. Success is the result of hard work, determination and perseverance.\n2. It is achieved by setting achievable goals, taking calculated risks and learning from failures.\n3. Success is not only measured by material possessions, but also by personal growth and fulfillment."},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-785V2Oiyxqp2aOqSu7VfRpDEqRBQz","object":"chat.completion","created":1682162120,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":9,"completion_tokens":9,"total_tokens":18},"choices":[{"message":{"role":"assistant","content":"Hello! How can I assist you today?"},"finish_reason":"stop","index":0}]}
+{"id":"chatcmpl-785b1CQI3n5UC9rSaWdDJCVgGX6zH","object":"chat.completion","created":1682162491,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":15,"completion_tokens":62,"total_tokens":77},"choices":[{"message":{"role":"assistant","content":"As an AI language model, I do not have the ability to access external websites or view their content. However, based on the URL provided, it appears to be a website for a technology company called iSoftTech located in India. They offer services such as software development, web design, and digital marketing."},"finish_reason":"stop","index":0}]}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{"id":"chatcmpl-786BWm1v1A79x6H7dUGgNl3SoGaoS","object":"chat.completion","created":1682164754,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":9,"completion_tokens":38,"total_tokens":47},"choices":[{"message":{"role":"assistant","content":"As an AI language model, I am not sure what you are asking for. Can you please provide more context or information so that I can better understand your request and provide a helpful response?"},"finish_reason":"stop","index":0}]}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+{
+    "error": {
+        "message": "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please send an email to support@openai.com and include any relevant code you'd like help with.)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}

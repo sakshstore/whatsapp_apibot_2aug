@@ -1,0 +1,284 @@
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Silvia Godoy
+                                                                )
+
+                                                            [wa_id] => 5519987325947
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 5519987325947
+                                                            [id] => wamid.HBgNNTUxOTk4NzMyNTk0NxUCABIYFjNFQjBGNzQ3MTcwRDJGMDczNkUxQkIA
+                                                            [timestamp] => 1686071976
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Olá Boa Tarde  😁
+Sou a Silvia Godoy, Representante da *FINANTO*.
+Portabilidade disponível para seu empréstimo consignado.
+
+✅  Comece o mês economizando e/ou com dinheiro no bolso!
+✅  Redução de juros disponível para seu consignado, taxas baixas para redução de parcela e troco!
+
+📍 Digite *SIM* para receber sua proposta, sem compromisso!
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Silvia Godoy
+                                                                )
+
+                                                            [wa_id] => 5519987325947
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 5519987325947
+                                                            [id] => wamid.HBgNNTUxOTk4NzMyNTk0NxUCABIYFjNFQjBGNzQ3MTcwRDJGMDczNkUxQkIA
+                                                            [timestamp] => 1686071976
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Olá Boa Tarde  😁
+Sou a Silvia Godoy, Representante da *FINANTO*.
+Portabilidade disponível para seu empréstimo consignado.
+
+✅  Comece o mês economizando e/ou com dinheiro no bolso!
+✅  Redução de juros disponível para seu consignado, taxas baixas para redução de parcela e troco!
+
+📍 Digite *SIM* para receber sua proposta, sem compromisso!
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Silvia Godoy
+                                                                )
+
+                                                            [wa_id] => 5519987325947
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 5519987325947
+                                                            [id] => wamid.HBgNNTUxOTk4NzMyNTk0NxUCABIYFjNFQjBGNzQ3MTcwRDJGMDczNkUxQkIA
+                                                            [timestamp] => 1686071976
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Olá Boa Tarde  😁
+Sou a Silvia Godoy, Representante da *FINANTO*.
+Portabilidade disponível para seu empréstimo consignado.
+
+✅  Comece o mês economizando e/ou com dinheiro no bolso!
+✅  Redução de juros disponível para seu consignado, taxas baixas para redução de parcela e troco!
+
+📍 Digite *SIM* para receber sua proposta, sem compromisso!
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [object] => whatsapp_business_account
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 116012011390800
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Array
+                                        (
+                                            [messaging_product] => whatsapp
+                                            [metadata] => Array
+                                                (
+                                                    [display_phone_number] => 5511937164084
+                                                    [phone_number_id] => 107204178948470
+                                                )
+
+                                            [contacts] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [profile] => Array
+                                                                (
+                                                                    [name] => Silvia Godoy
+                                                                )
+
+                                                            [wa_id] => 5519987325947
+                                                        )
+
+                                                )
+
+                                            [messages] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [from] => 5519987325947
+                                                            [id] => wamid.HBgNNTUxOTk4NzMyNTk0NxUCABIYFjNFQjBGNzQ3MTcwRDJGMDczNkUxQkIA
+                                                            [timestamp] => 1686071976
+                                                            [text] => Array
+                                                                (
+                                                                    [body] => Olá Boa Tarde  😁
+Sou a Silvia Godoy, Representante da *FINANTO*.
+Portabilidade disponível para seu empréstimo consignado.
+
+✅  Comece o mês economizando e/ou com dinheiro no bolso!
+✅  Redução de juros disponível para seu consignado, taxas baixas para redução de parcela e troco!
+
+📍 Digite *SIM* para receber sua proposta, sem compromisso!
+                                                                )
+
+                                                            [type] => text
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [field] => messages
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

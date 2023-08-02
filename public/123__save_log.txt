@@ -1,0 +1,18 @@
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => I love u
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
+Array
+(
+    [name] => Susheel verma
+    [wa_id] => 918840574997
+    [from] => 918840574997
+    [body] => 1
+    [display_phone_number] => 919559190379
+    [phone_number_id] => 102243829431665
+)
